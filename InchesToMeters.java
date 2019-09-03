@@ -1,5 +1,3 @@
-package com.company;
-
 public class InchesToMeters {
     public static void main(String[] args) {
         double inches, meters;
