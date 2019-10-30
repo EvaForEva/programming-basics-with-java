@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class TrainTheTrainers {
 
     public static void main(String[] args) {
-	    Scanner scanner = new Scanner(System.in);
-	    int juryCnt = Integer.parseInt(scanner.nextLine());
+	Scanner scanner = new Scanner(System.in);
+	int juryCnt = Integer.parseInt(scanner.nextLine());
         String presentation = scanner.nextLine();
         double totalGrades = 0.0;
         int totalGradesCount = 0;
